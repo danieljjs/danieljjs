@@ -1,3 +1,3 @@
  ## Hi there 👋
 
-![danieljjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자명)](https://github.com/danieljjs/github-readme-stats)
+![danieljjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljjs)](https://github.com/danieljjs/github-readme-stats)
