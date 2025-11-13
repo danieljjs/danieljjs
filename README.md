@@ -1,4 +1,4 @@
-![Figma](https://github.com/user-attachments/assets/68c80219-7585-4e7b-a149-c70cb21b9496)### Hi there, I'm Jinsu Jeon! 👋
+### Hi there, I'm Jinsu Jeon! 👋
 
 I'm a student at Hankuk University of Foreign Studies based in Yong-in, Korea, majoring in Information Communication Engineering.
 
@@ -10,16 +10,25 @@ I'm a student at Hankuk University of Foreign Studies based in Yong-in, Korea, m
 **🛠️ Tech Stack**
 
 👩‍💻 Front-End
-
+![HTML](https://github.com/user-attachments/assets/fb68598a-9c35-4b9d-befe-4d8c3cfe34dc)
+![CSS](https://github.com/user-attachments/assets/ae1128f9-6707-4dd6-baf4-3dba15670489)
+![JavaScript](https://github.com/user-attachments/assets/9984b884-ceef-4a3c-ac14-a757f25bec3c)
+![React](https://github.com/user-attachments/assets/e53d2b82-dff2-4b96-87c0-bd5fe1a87eb7)
 
 💿 Back-End
-
+![Spring-Dark](https://github.com/user-attachments/assets/4d62a8fa-cbd3-4509-832c-ab5a832efb4c)
+![MySQL-Dark](https://github.com/user-attachments/assets/2fb4d212-d7f1-4d1d-bace-ce25ff402a9f)
 
 ☁️ Deployment / Infra
-
+![Docker](https://github.com/user-attachments/assets/15deea89-5cfb-4e82-bb16-502223e30a6f)
+![Kubernetes](https://github.com/user-attachments/assets/831734f8-a221-4300-b481-0f1c9bb81e2f)
+![AWS-Dark](https://github.com/user-attachments/assets/bf98f16a-a971-4dbe-828d-f6debb81b474)
 
 ⚙️ Development Tools
-![Uploa<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#F4F2ED" rx="60"/><g clip-path="url(#clip0_4_187)"><path fill="#0ACF83" d="M94.3467 228C112.747 228 127.68 213.067 127.68 194.667V161.333H94.3467C75.9467 161.333 61.0133 176.267 61.0133 194.667C61.0133 213.067 75.9467 228 94.3467 228Z"/><path fill="#A259FF" d="M61.0133 128C61.0133 109.6 75.9467 94.6667 94.3467 94.6667H127.68V161.333H94.3467C75.9467 161.333 61.0133 146.4 61.0133 128Z"/><path fill="#F24E1E" d="M61.0133 61.3333C61.0133 42.9333 75.9467 28 94.3467 28H127.68V94.6667H94.3467C75.9467 94.6667 61.0133 79.7333 61.0133 61.3333Z"/><path fill="#FF7262" d="M127.68 28H161.013C179.413 28 194.347 42.9333 194.347 61.3333C194.347 79.7333 179.413 94.6667 161.013 94.6667H127.68V28Z"/><path fill="#1ABCFE" d="M194.347 128C194.347 146.4 179.413 161.333 161.013 161.333C142.613 161.333 127.68 146.4 127.68 128C127.68 109.6 142.613 94.6667 161.013 94.6667C179.413 94.6667 194.347 109.6 194.347 128Z"/></g><defs><clipPath id="clip0_4_187"><rect width="133.36" height="200" fill="#fff" transform="translate(61 28)"/></clipPath></defs></svg>ding Figma.svg…]()
+![Figma](https://github.com/user-attachments/assets/68c80219-7585-4e7b-a149-c70cb21b9496)
+![Github-Dark](https://github.com/user-attachments/assets/649eff86-2fcc-430e-9987-2a4950611f4c)
+![Discord](https://github.com/user-attachments/assets/775c551e-8a86-4dda-88d5-3ef86c2abf62)
+![Idea-Dark](https://github.com/user-attachments/assets/31cdaa7c-7036-4e6b-86fe-918b693c5e0f)
 
 
 ![danieljjs's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljjs)
