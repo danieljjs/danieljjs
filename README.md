@@ -17,7 +17,7 @@
 - 동일 문제를 Transformer · BERT · LLM 세 방식으로 풀며 접근법별 트레이드오프를 비교했습니다.
 - Spring Boot · FastAPI 기반 백엔드와 모델 서빙을 연동해 end-to-end로 서비스를 구현합니다.
 - 현재 EST AI Challengers 부트캠프에서 PyTorch와 데이터 전처리·시각화를 학습 중입니다.
-- - Spring Boot 기반 REST API·JWT 인증·JPA로 백엔드 서비스를 설계·개발한 경험이 있습니다.
+- Spring Boot 기반 REST API · JWT 인증 · JPA로 백엔드 서비스를 설계·개발한 경험이 있습니다.
 
 ## Activities
 
