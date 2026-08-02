@@ -56,9 +56,3 @@
 **악성 댓글 분류 (Transformer · BERT · LLM)**
 동일한 분류 문제를 세 방식으로 접근하며 트레이드오프 비교. 불균형 데이터에서 threshold 조정으로 F1 개선.
 `Python` `PyTorch` `Hugging Face`
-
-## GitHub Stats
-
-![Jinsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieljjs&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieljjs&layout=compact&theme=tokyonight)
