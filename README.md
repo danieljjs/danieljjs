@@ -49,7 +49,7 @@
 
 ## Projects
 
-**AI 기반 화훼 거래 플랫폼 **
+**AI 기반 화훼 거래 플랫폼**
 데이터 규모·라벨 품질이 성능의 상한임을 진단해 250GB 데이터셋을 재구축, 신선도 분류 정확도를 37% → 91% 개선. FastAPI 서빙·백엔드 연동까지 end-to-end 구현.
 `Python` `PyTorch` `FastAPI` `Spring Boot`
 
